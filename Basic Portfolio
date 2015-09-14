@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<title></title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">John Lawal Jr</p>
+			<a href="mailto:Jlawaljr@gmail.com"><p id="email">Jlawaljr@gmail.com</p></a>
+		</div>
+		<div class="left"></div>
+		<div class="right">
+			<h4>Objective</h4>
+			<p>I am a motivated self taught developer. I seek to expand my skills by working and growing in the IT industry. I am a fast learner and quickly adapt to meet the needs expressed by new technologies and new requirements.</p>
+			<h4>Education</h4>
+			<p>Various Self Paced Courses , (06/2015 - Present)</p>
+			<ul>
+				<li>Learn Ruby the Hard Way</li>
+				<li>Free Code Camp</li>
+				<li>Udacity</li>
+				<li>Code Academy</li>
+			</ul>
+			<h4>Skills</h4>
+			<p>Languages: Java, JavaScript, Ruby</p>
+			<p>Frameworks: Node.js, Ruby on Rails</p>
+			<h4>Education</h4>
+			<p>BLA, Liberal Arts, UNM: University of New Mexico</p>
+			<ul>
+				</ul>
+		</div>
+		
+		</div>
+	</body>
+</html>
